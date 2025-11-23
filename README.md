@@ -10,7 +10,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
     - [Memory]()
     - [Cooperation]()
     - [Self-evolution]()
- - [EP]()
+  - [EP]()
     - [Planning]()
     - [Memory]()
     - [Cooperation]()
