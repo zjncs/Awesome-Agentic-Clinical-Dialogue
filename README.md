@@ -5,13 +5,58 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 ## 📁 Table of Contents
 - [Key Categories](#-key-categories)
 - [Resource List](#-resource-list)
+  - [LSC]()
+    - [Planning]()
+    - [Memory]()
+    - [Cooperation]()
+    - [Self-evolution]()
+ - [EP]()
+    - [Planning]()
+    - [Memory]()
+    - [Cooperation]()
+    - [Self-evolution]()
+  - [GS]()
+    - [Planning]()
+    - [Memory]()
+    - [Action]()
+    - [Cooperation]()
+    - [Self-evolution]()
+  - [VWA]()
+    - [Planning]()
+    - [Memory]()
+    - [Action]()
+    - [Cooperation]()
+    - [Self-evolution]()
 - [Contributing](#-contributing)
 - [Citation](#%EF%B8%8F-citation)
 ## 🔑 Key Categories
 - 🤖**Latent Space Clinicians (LSC)**. These agents leverage the LLM's vast internal knowledge for creative synthesis and forming a coherent understanding of a clinical situation. Their philosophy is to trust the model's emergent reasoning capabilities to function like an experienced clinical assistant providing insights. For example, the zero/few-shot reasoning capabilities of Med-PaLM or MedAgents exemplify this paradigm.
+- 🤖**Emergent Planners (EP)**. This paradigm grants the LLM a high degree of autonomy, allowing it to dynamically devise its own multi-step plan to achieve a complex clinical goal. The agent's behavior is emergent, as it independently determines the necessary steps and goals. Frameworks like AgentMD, which uses ReAct-style prompting.
 - 🤖**Grounded Synthesizers (GS)**. These agents operate under the principle that LLMs should function as powerful natural language interfaces to reliable external information rather than as knowledge creators. Their primary role is to retrieve, integrate, and accurately summarize information from verifiable sources like medical databases or imaging data. Exemplars include the foundational frameworks medical retrieval and indexing techniques such as Med-RAG and MA-COIR.
+- 🤖**Verifiable Workflow Automators (VWA)**. In this paradigm, agent autonomy is strictly constrained within pre-defined, verifiable clinical workflows or decision trees. The LLM acts as a natural language front-end to a structured process, executing tasks rather than making open-ended decisions, which ensures maximum safety and predictability. This approach is exemplified by commercial triage bots, the structured conversational framework of systems like Google's AMIE, and principles from classic task-oriented dialogue systems sush as MeDi-TODER.
 ## 📖 Resource List
-
+### 🤖**LSC**
+#### 📊Planning
+#### 🧠Memory
+#### 👥Cooperation
+#### ⏫Self-evolution
+### 🤖**EP**
+#### 📊Planning
+#### 🧠Memory
+#### 👥Cooperation
+#### ⏫Self-evolution
+### 🤖**GS**
+#### 📊Planning
+#### 🧠Memory
+#### 🧰Action
+#### 👥Cooperation
+#### ⏫Self-evolution
+### 🤖**VWA**
+#### 📊Planning
+#### 🧠Memory
+#### 🧰Action
+#### 👥Cooperation
+#### ⏫Self-evolution
 ## 🤝 Contributing
 
 ## ✍️ Citation
