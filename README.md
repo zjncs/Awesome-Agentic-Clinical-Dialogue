@@ -59,6 +59,23 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [A generalist medical language model for disease diagnosis assistance](https://www.nature.com/articles/s41591-024-03416-6)
 - [Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks](https://arxiv.org/abs/2311.11608)
 #### 🧠Memory
+- [Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning](https://arxiv.org/abs/2505.18503)
+- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
+- [HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs](https://arxiv.org/abs/2311.09774)
+- [Diagnostic reasoning prompts reveal the potential for large language model interpretability in medicine](https://www.nature.com/articles/s41746-024-01010-1)
+- [AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models](https://arxiv.org/abs/2410.16820)
+- [A context-based chatbot surpasses radiologists and generic ChatGPT in following the ACR appropriateness guidelines](https://pubmed.ncbi.nlm.nih.gov/37489981/)
+- [MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](https://arxiv.org/abs/2407.02730)
+- [The FAIIR conversational AI agent assistant for youth mental health service provision](https://www.nature.com/articles/s41746-025-01647-6)
+- [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
+- [Clinical ModernBERT: An efficient and long context encoder for biomedical text](https://arxiv.org/abs/2504.03964)
+- [Dk-behrt: Teaching language models international classification of disease (icd) codes using known disease descriptions](https://proceedings.mlr.press/v281/an25a.html)
+- [Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHRs](https://arxiv.org/abs/2412.16178)
+- [Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models](https://arxiv.org/abs/2308.15022)
+- [Adapted large language models can outperform medical experts in clinical text summarization](https://www.nature.com/articles/s41591-024-02855-5)
+- [BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights](https://arxiv.org/abs/2311.16075)
+- [Towards evaluating and building versatile large language models for medicine](https://arxiv.org/abs/2311.16075)
+- [AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking](https://arxiv.org/abs/2503.03532)
 #### 👥Cooperation
 #### ⏫Self-evolution
 ### 🤖**EP**
