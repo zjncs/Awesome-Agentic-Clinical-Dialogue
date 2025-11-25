@@ -144,6 +144,12 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 #### 🧠Memory
 #### 🧰Action
 #### 👥Cooperation
+- [Error Detection in Medical Note through Multi Agent Debate](https://aclanthology.org/2025.bionlp-1.12/)
+- [Multi-modal Medical Diagnosis via Large-small Model Collaboration](https://ieeexplore.ieee.org/document/11095208)
+- [MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM](https://arxiv.org/abs/2509.20067)
+- [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/abs/2505.20824)
+- [MedConMA: A Confidence-Driven Multi-agent Framework for Medical Q&A](https://link.springer.com/chapter/10.1007/978-981-96-8180-8_33)
+- [MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)
 #### ⏫Self-evolution
 ### 🤖**VWA**
 #### 📊Planning
