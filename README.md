@@ -164,6 +164,9 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 #### 🧰Action
 #### 👥Cooperation
 - [Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent](https://arxiv.org/abs/2411.14637)
+- [TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](https://arxiv.org/abs/2508.08115)
+- [ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://arxiv.org/abs/2406.13890)
+- [The Optimization Paradox in Clinical AI Multi-Agent Systems](https://arxiv.org/abs/2506.06574)
 #### ⏫Self-evolution
 ## 🤝 Contributing
 
