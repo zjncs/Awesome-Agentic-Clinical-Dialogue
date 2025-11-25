@@ -85,7 +85,11 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678)
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537)
 #### ⏫Self-evolution
-
+- [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://arxiv.org/abs/2506.13131)
+- [Revolutionizing healthcare: the role of artificial intelligence in clinical practice](https://pubmed.ncbi.nlm.nih.gov/37740191/)
+- [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
+- [STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical Question-Answering](https://arxiv.org/abs/2406.19973)
+- [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 ### 🤖**EP**
 #### 📊Planning
 #### 🧠Memory
