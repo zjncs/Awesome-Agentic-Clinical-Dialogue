@@ -92,6 +92,12 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 ### 🤖**EP**
 #### 📊Planning
+- [Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems](https://aclanthology.org/2025.findings-acl.751/)
+- [Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue](https://arxiv.org/abs/2308.03549)
+- [Advancing Biomedical Claim Verification by Using Large Language Models with Better Structured Prompting Strategies](https://aclanthology.org/2025.bionlp-1.14/)
+- [Generating Explanations in Medical Question-Answering by Expectation Maximization Inference over Evidence](https://arxiv.org/abs/2310.01299)
+- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+- [$S^2AF$: An action framework to self-check the Understanding Self-Consistency of Large Language Models](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002448)
 #### 🧠Memory
 #### 👥Cooperation
 #### ⏫Self-evolution
