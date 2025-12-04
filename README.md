@@ -14,9 +14,6 @@
   <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/issues">
     <img src="https://img.shields.io/github/issues/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=a78bfa" alt="Issues">
   </a>
-  <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=orange" alt="License">
-  </a>
 
   <br/>
   <br/>
