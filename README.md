@@ -39,7 +39,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - 🤖**Emergent Planners (EP)**. This paradigm grants the LLM a high degree of autonomy, allowing it to dynamically devise its own multi-step plan to achieve a complex clinical goal. The agent's behavior is emergent, as it independently determines the necessary steps and goals. Frameworks like AgentMD, which uses ReAct-style prompting.
 - 🤖**Grounded Synthesizers (GS)**. These agents operate under the principle that LLMs should function as powerful natural language interfaces to reliable external information rather than as knowledge creators. Their primary role is to retrieve, integrate, and accurately summarize information from verifiable sources like medical databases or imaging data. Exemplars include the foundational frameworks medical retrieval and indexing techniques such as Med-RAG and MA-COIR.
 - 🤖**Verifiable Workflow Automators (VWA)**. In this paradigm, agent autonomy is strictly constrained within pre-defined, verifiable clinical workflows or decision trees. The LLM acts as a natural language front-end to a structured process, executing tasks rather than making open-ended decisions, which ensures maximum safety and predictability. This approach is exemplified by commercial triage bots, the structured conversational framework of systems like Google's AMIE, and principles from classic task-oriented dialogue systems sush as MeDi-TODER.
-## 📖 Resource List
+## 📖 Awesome Methods, Model and Resource List
 ### 🤖**LSC**
 #### 📊Planning
 - [BioGPT: generative pre-trained transformer for biomedical text generation and mining](https://arxiv.org/abs/2210.10341)
@@ -266,15 +266,15 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways](https://arxiv.org/abs/2508.07308)
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
 - [Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries](https://arxiv.org/abs/2508.17366)
-### Dataset
+##✳️Awesome Dataset
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source (Paper/Link) |
 | :--- | :--- | :--- | :--- | :--- |
 | **I. QA Dialogue** | | | | |
-| **MedQA** | 2020 | Medical Examination (QA) | Large-scale multiple-choice questions collected from professional medical board exams (USMLE, Mainland China, Taiwan). | [Jin et al., 2020](https://arxiv.org/abs/2009.13081) |
-| **MedMCQA** | 2022 | Medical Examination (QA) | Large-scale, multiple-choice QA dataset derived from Indian medical entrance examinations (AIIMS/NEET). | [Pal et al., 2022](https://proceedings.mlr.press/v174/pal22a.html) |
-| **cMedQA2** | 2019 | QA / Retrieval | Chinese medical QA dataset with queries and answers from online health counseling platforms. | [Zhang et al., 2019](https://github.com/zhangsheng93/cMedQA2) |
-| **CMExam** | 2023 | Medical Examination (QA) | 60K+ multiple-choice questions from the Chinese National Medical Licensing Examination with detailed annotations. | [Liu et al., 2023](https://arxiv.org/abs/2306.03030) |
+| **MedQA** | 2020 | Medical Examination (QA) | Large-scale multiple-choice questions collected from professional medical board exams (USMLE, Mainland China, Taiwan). | [paper](https://arxiv.org/abs/2009.13081), [soource](https://github.com/jind11/MedQA/) |
+| **MedMCQA** | 2022 | Medical Examination (QA) | Large-scale, multiple-choice QA dataset derived from Indian medical entrance examinations (AIIMS/NEET). | [paper](https://arxiv.org/abs/2203.14371), [source](https://github.com/MedMCQA/MedMCQA)|
+| **cMedQA2** | 2019 | QA / Retrieval | Chinese medical QA dataset with queries and answers from online health counseling platforms. | [paper](https://ieeexplore.ieee.org/abstract/document/8548603), [source](https://github.com/zhangsheng93/cMedQA2) |
+| **CMExam** | 2023 | Medical Examination (QA) | 60K+ multiple-choice questions from the Chinese National Medical Licensing Examination with detailed annotations. | [paper](https://arxiv.org/abs/2306.03030), [source](https://github.com/williamliujl/CMExam) |
 | **Medbullets** | 2024 | Medical Examination (QA) | High-quality USMLE Step 2 & 3 style questions with expert-written explanations for reasoning evaluation. | [Chen et al., 2024](https://arxiv.org/abs/2402.18060) |
 | **HeadQA** | 2019 | Medical Examination (QA) | Multiple-choice questions from Spanish healthcare exams (MIR, EIR, etc.) for testing complex reasoning. | [Vilares et al., 2019](https://aclanthology.org/P19-1092/) |
 | **Huatuo-26M** | 2023 | Medical Examination / QA | Massive Chinese medical QA dataset with 26 million QA pairs, used for pre-training and retrieval. | [Li et al., 2023](https://arxiv.org/abs/2305.01526) |
