@@ -747,17 +747,39 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
   > Integrates LLM-based embodied agents into a Virtual Reality simulation to train medical students in clinical communication actions.
 
 #### 👥Cooperation
-- [Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent](https://arxiv.org/abs/2411.14637)
-- [TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](https://arxiv.org/abs/2508.08115)
-- [ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://arxiv.org/abs/2406.13890)
-- [The Optimization Paradox in Clinical AI Multi-Agent Systems](https://arxiv.org/abs/2506.06574)
+
+- **Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2411.14637)
+  > Introduces MAKA, a multi-agent framework that improves patient-trial matching by dynamically augmenting criteria with domain knowledge and performing structured reasoning.
+
+- **TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.08115)
+  > Integrates the "Big Five" human teamwork components (e.g., leadership, trust) into a multi-agent system to systematically improve medical decision-making.
+
+- **ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World** (_ACL Findings_, 2025) [paper](https://arxiv.org/abs/2406.13890), [code](https://github.com/Haitian-Liu/ClinicalLab)
+  > Presents a comprehensive suite for aligning and evaluating medical agents across 24 clinical departments, featuring a realistic benchmark (ClinicalBench).
+
+- **The Optimization Paradox in Clinical AI Multi-Agent Systems** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.06574)
+  > Reveals a paradox where systems built from individually optimized "best-of-breed" components underperform due to poor information flow, advocating for end-to-end system validation.
+
 #### ⏫Self-evolution
-- [EvoAgentX: An Automated Framework for Evolving Agentic Workflows](https://arxiv.org/abs/2507.03616)
-- [MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning](https://arxiv.org/abs/2508.00271)
-- [ZERA: Zero-init Instruction Evolving Refinement Agent -- From Zero Instructions to Structured Prompts via Principle-based Optimization](https://arxiv.org/abs/2509.18158)
-- [HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways](https://arxiv.org/abs/2508.07308)
-- [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
-- [Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries](https://arxiv.org/abs/2508.17366)
+
+
+- **EvoAgentX: An Automated Framework for Evolving Agentic Workflows** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2507.03616), [code](https://github.com/EvoAgentX/EvoAgentX)
+  > An open-source platform that automates the generation and evolutionary optimization of multi-agent workflows using algorithms like TextGrad and AFlow.
+
+- **MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.00271), [code](https://github.com/qhjqhj00/MetaAgent)
+  > Proposes an agent that evolves through "learning by doing," autonomously creating tools and building a knowledge base from its own experiences.
+
+- **ZERA: Zero-init Instruction Evolving Refinement Agent** (_EMNLP_, 2025) [paper](https://arxiv.org/abs/2509.18158), [code](https://github.com/younatics/zera-agent)
+  > An automated prompt optimization agent that evolves structured prompts from zero initial instructions using principle-based self-correction.
+
+- **HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.07308)
+  > (Also listed in Planning) A benchmark generation framework that synthesizes QA datasets from clinical decision pathways to test complex reasoning.
+
+- **A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2507.21046)
+  > A comprehensive survey categorizing self-evolving agents by *what* (model/tool/context), *when*, and *how* they evolve, positioning them as a path to ASI.
+
+- **Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries** (_CogSci_, 2025) [paper](https://arxiv.org/abs/2508.17366)
+  > Investigates the emergence of collective cognition and social boundaries in hybrid societies where humans and self-evolving agents interact.
 
 ## Star History
 
