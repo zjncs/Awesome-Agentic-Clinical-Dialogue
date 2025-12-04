@@ -282,37 +282,100 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 ### 🤖**EP**
 #### 📊Planning
-- [Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems](https://aclanthology.org/2025.findings-acl.751/)
-- [Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue](https://arxiv.org/abs/2308.03549)
-- [Advancing Biomedical Claim Verification by Using Large Language Models with Better Structured Prompting Strategies](https://aclanthology.org/2025.bionlp-1.14/)
-- [Generating Explanations in Medical Question-Answering by Expectation Maximization Inference over Evidence](https://arxiv.org/abs/2310.01299)
-- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
-- [S2AF: An action framework to self-check the Understanding Self-Consistency of Large Language Models](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002448)
-- [Ranked Voting based Self-Consistency of Large Language Models](https://arxiv.org/abs/2505.10772)
-- [A comparative evaluation of chain-of-thought-based prompt engineering techniques for medical question answering](https://pubmed.ncbi.nlm.nih.gov/40602316/)
-- [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582)
-- [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
-- [Prompt engineering in consistency and reliability with the evidence-based guideline for LLMs](https://pubmed.ncbi.nlm.nih.gov/38378899/)
-- [Cost-Effective Framework with Optimized Task Decomposition and Batch Prompting for Medical Dialogue Summary](https://dl.acm.org/doi/abs/10.1145/3627673.3679671)
-- [A brain-inspired agentic architecture to improve planning with LLMs](https://www.nature.com/articles/s41467-025-63804-5)
-- [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802)
-- [FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights](https://arxiv.org/abs/2505.04649)
-- [Agentic Feedback Loop Modeling Improves Recommendation and User Simulation](https://arxiv.org/abs/2410.20027)
+
+- **Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.751/)
+  > Introduces the MedVP dataset, focusing on verifiable medical problems to benchmark and enhance the complex reasoning capabilities of LLMs.
+
+- **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback** (_AAAI_, 2024) [paper](https://arxiv.org/abs/2308.03549), [code](https://github.com/Sympfer/Zhongjing)
+  > Enhances Chinese medical LLMs using a complete RLHF pipeline with expert doctors involved in the feedback loop to ensure professional accuracy.
+
+- **Advancing Biomedical Claim Verification by Using Large Language Models with Better Structured Prompting Strategies** (_BioNLP_, 2025) [paper](https://aclanthology.org/2025.bionlp-1.14/)
+  > Evaluates various prompting strategies, such as chain-of-thought and self-consistency, to improve the accuracy of biomedical claim verification.
+
+- **Generating Explanations in Medical Question-Answering by Expectation Maximization Inference over Evidence** (_EMNLP Findings_, 2023) [paper](https://arxiv.org/abs/2310.01299), [code](https://github.com/epfl-dlab/em-evidence)
+  > Proposes a latent variable model using Expectation Maximization to select relevant evidence and generate high-quality explanations for medical questions.
+
+- **Self-Consistency Improves Chain of Thought Reasoning in Language Models** (_ICLR_, 2023) [paper](https://arxiv.org/abs/2203.11171), [code](https://github.com/google-research/self-consistency)
+  > Introduces a decoding strategy that samples multiple reasoning paths and selects the most consistent answer, significantly boosting performance on reasoning tasks.
+
+- **S2AF: An action framework to self-check the Understanding Self-Consistency of Large Language Models** (_Neural Netw._, 2025) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002448)
+  > Develops a framework that enables LLMs to self-evaluate their understanding and consistency through an action-based checking mechanism.
+
+- **Ranked Voting based Self-Consistency of Large Language Models** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.10772)
+  > Proposes a ranked voting mechanism to aggregate outputs from self-consistency sampling, offering better robustness than simple majority voting.
+
+- **A comparative evaluation of chain-of-thought-based prompt engineering techniques for medical question answering** (_Sci. Rep._, 2025) [paper](https://pubmed.ncbi.nlm.nih.gov/40602316/)
+  > Systematically benchmarks different Chain-of-Thought prompting variations to identify the most effective strategies for medical exams.
+
+- **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models** (_ICLR_, 2024) [paper](https://arxiv.org/abs/2310.08582), [code](https://github.com/Mestway/Tree-Planner)
+  > Formulates task planning as a tree search problem, allowing agents to perform efficient closed-loop planning and error correction.
+
+- **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models** (_ICLR_, 2023) [paper](https://arxiv.org/abs/2205.10625)
+  > A prompting strategy that decomposes complex problems into a sequence of simpler sub-problems, solving them sequentially to guide the model.
+
+- **Prompt engineering in consistency and reliability with the evidence-based guideline for LLMs** (_npj Digit. Med._, 2024) [paper](https://pubmed.ncbi.nlm.nih.gov/38378899/)
+  > Investigates how guideline-based prompting improves the consistency and clinical reliability of LLM responses in medical decision support.
+
+- **Cost-Effective Framework with Optimized Task Decomposition and Batch Prompting for Medical Dialogue Summary** (_CIKM_, 2023) [paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679671)
+  > Proposes a framework that reduces API costs while maintaining summary quality by optimizing task decomposition and using batch prompting.
+
+- **A brain-inspired agentic architecture to improve planning with LLMs** (_Nat. Commun._, 2025) [paper](https://www.nature.com/articles/s41467-025-63804-5)
+  > Draws inspiration from human cognitive processes to design an agent architecture that separates planning, execution, and monitoring for better reliability.
+
+- **Self-critiquing models for assisting human evaluators** (_NeurIPS_, 2022) [paper](https://arxiv.org/abs/2206.05802)
+  > Trains models to generate natural language critiques of their own or others' outputs, helping human annotators find errors more efficiently.
+
+- **FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.04649)
+  > An agentic framework that iteratively refines its analysis of medical research papers based on structured feedback loops.
+
+- **Agentic Feedback Loop Modeling Improves Recommendation and User Simulation** (_WWW_, 2025) [paper](https://arxiv.org/abs/2410.20027)
+  > Models the interaction between recommender agents and user simulator agents as a feedback loop to improve long-term recommendation utility.
+
+
 #### 🧠Memory
-- [MOTOR: A Time-To-Event Foundation Model For Structured Medical Records](https://arxiv.org/abs/2301.03150)
-- [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/abs/2408.01112)
-- [Insights from high and low clinical users of telemedicine: a mixed-methods study of clinician workflows, sentiments, and user experiences](https://pubmed.ncbi.nlm.nih.gov/40674858/)
-- [Evaluating large language model workflows in clinical decision support for triage and referral and diagnosis](https://www.nature.com/articles/s41746-025-01684-1)
-- [SoftTiger: A Clinical Foundation Model for Healthcare Workflows](https://arxiv.org/abs/2403.00868)
-- [STAF-LLM: A scalable and task-adaptive fine-tuning framework for large language models in medical domain](https://www.sciencedirect.com/science/article/pii/S0957417425012047)
-- [Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks](https://arxiv.org/abs/2503.03687v1)
-- [From pre-training to fine-tuning: An in-depth analysis of Large Language Models in the biomedical domain](https://www.sciencedirect.com/science/article/pii/S0933365724002458)
-- [Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models](https://arxiv.org/abs/2303.05977)
-- [Diagnosing Transformers: Illuminating Feature Spaces for Clinical Decision-Making](https://arxiv.org/abs/2305.17588)
-- [Embedding dynamic graph attention mechanism into Clinical Knowledge Graph for enhanced diagnostic accuracy](https://www.sciencedirect.com/science/article/pii/S0957417424030823)
-- [HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making](https://arxiv.org/abs/2409.10011)
-- [Instruction Tuning and CoT Prompting for Contextual Medical QA with LLMs](https://arxiv.org/abs/2506.12182)
-- [LIFE-CRAFT: A Multi-agentic Conversational RAG Framework for Lifestyle Medicine Coaching with Context Traceability and Case-Based Evidence Synthesis](https://dl.acm.org/doi/abs/10.1007/978-3-032-06004-4_9)
+
+- **MOTOR: A Time-To-Event Foundation Model For Structured Medical Records** (_MLHC_, 2023) [paper](https://arxiv.org/abs/2301.03150), [code](https://github.com/tanlab/MOTOR)
+  > A foundation model pre-trained on longitudinal structured medical records to perform time-to-event prediction tasks with high accuracy.
+
+- **Agentic LLM Workflows for Generating Patient-Friendly Medical Reports** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2408.01112)
+  > Proposes a multi-agent workflow that transforms complex clinical notes into patient-friendly reports, improving accessibility and understanding.
+
+- **Insights from high and low clinical users of telemedicine: a mixed-methods study of clinician workflows, sentiments, and user experiences** (_npj Digit. Med._, 2025) [paper](https://pubmed.ncbi.nlm.nih.gov/40674858/)
+  > A mixed-methods study analyzing clinician workflows and sentiments to understand the factors driving high versus low adoption of telemedicine.
+
+- **Evaluating large language model workflows in clinical decision support for triage and referral and diagnosis** (_npj Digit. Med._, 2025) [paper](https://www.nature.com/articles/s41746-025-01684-1)
+  > Systematically evaluates LLM-based workflows in clinical decision support systems, specifically focusing on their safety and accuracy in triage and referral.
+
+- **SoftTiger: A Clinical Foundation Model for Healthcare Workflows** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2403.00868), [code](https://github.com/Tigerrr/SoftTiger)
+  > Introduces a LLaMA-based clinical foundation model optimized to integrate seamlessly into various healthcare workflows, from summarization to triage.
+
+- **STAF-LLM: A scalable and task-adaptive fine-tuning framework for large language models in medical domain** (_Expert Syst. Appl._, 2025) [paper](https://www.sciencedirect.com/science/article/pii/S0957417425012047)
+  > Presents a scalable framework for task-adaptive fine-tuning that efficiently adapts general LLMs to specific medical tasks with limited resources.
+
+- **Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.03687v1)
+  > Investigates fine-tuning strategies for LLMs to generate safer medication recommendations, specifically targeting the reduction of overprescribing errors.
+
+- **From pre-training to fine-tuning: An in-depth analysis of Large Language Models in the biomedical domain** (_Artif. Intell. Med._, 2024) [paper](https://www.sciencedirect.com/science/article/pii/S0933365724002458)
+  > Provides a comprehensive comparative analysis of pre-training versus fine-tuning strategies for adapting LLMs to biomedical downstream tasks.
+
+- **Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models** (_MICCAI_, 2023) [paper](https://arxiv.org/abs/2303.05977), [code](https://github.com/Fuying-Wang/MedVQA-Prefix)
+  > Utilizes prefix tuning to adapt frozen language models for medical visual question answering, achieving high performance with few trainable parameters.
+
+- **Diagnosing Transformers: Illuminating Feature Spaces for Clinical Decision-Making** (_NeurIPS_, 2023) [paper](https://arxiv.org/abs/2305.17588)
+  > Analyzes the internal feature spaces of Transformer models to interpret how they represent clinical concepts and make decisions.
+
+- **Embedding dynamic graph attention mechanism into Clinical Knowledge Graph for enhanced diagnostic accuracy** (_Expert Syst. Appl._, 2024) [paper](https://www.sciencedirect.com/science/article/pii/S0957417424030823)
+  > Integrates a dynamic graph attention mechanism into clinical knowledge graphs to capture evolving patient states for more accurate diagnosis.
+
+- **HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making** (_AAAI_, 2025) [paper](https://arxiv.org/abs/2409.10011)
+  > A framework designed to detect and mitigate hallucinations in clinical decision-making by optimizing the retrieval-augmented context.
+
+- **Instruction Tuning and CoT Prompting for Contextual Medical QA with LLMs** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.12182)
+  > Explores the synergistic effect of instruction tuning and Chain-of-Thought prompting to enhance the contextual understanding of medical QA models.
+
+- **LIFE-CRAFT: A Multi-agentic Conversational RAG Framework for Lifestyle Medicine Coaching with Context Traceability and Case-Based Evidence Synthesis** (_HCII_, 2024) [paper](https://dl.acm.org/doi/abs/10.1007/978-3-032-06004-4_9)
+  > A multi-agent RAG system designed for lifestyle medicine coaching that ensures advice is traceable to case-based evidence.
+
 #### 👥Cooperation
 - [MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](https://arxiv.org/abs/2509.23725)
 - [ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis](https://arxiv.org/abs/2508.04915)
