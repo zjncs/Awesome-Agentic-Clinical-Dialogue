@@ -266,7 +266,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways](https://arxiv.org/abs/2508.07308)
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
 - [Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries](https://arxiv.org/abs/2508.17366)
-##✳️Awesome Dataset
+
+## ✳️Awesome Dataset
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source (Paper/Link) |
 | :--- | :--- | :--- | :--- | :--- |
