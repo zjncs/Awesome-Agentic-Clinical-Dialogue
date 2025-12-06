@@ -814,7 +814,6 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)](https://www.star-history.com/#xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)
 
-
 ## 🤝 Contributing
 Your contributions are always welcome! Please contact [Xiaoquan Zhi](https://github.com/xqz614) or [Chuang Zhao](https://github.com/Data-Designer)
 ## ✍️ Citation
