@@ -176,10 +176,11 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |PKU|Liantao Ma|[Homepage](http://scholar.pku.edu.cn/malt/home)|
 |Edinburgh|Ewen M Harrison|[Homepage](https://surgery.ed.ac.uk/research/cachexiagroup)|
 |Virginia|Aidong Zhang|[Homepage](https://engineering.virginia.edu/faculty/aidong-zhang)|
-|CUHK|Freedom AI|[Homepage](https://github.com/FreedomIntelligence)|
+|CUHK|Freedom AI, YuanWu|[Homepage](https://github.com/FreedomIntelligence), [Homepage](https://www.bme.cuhk.edu.hk/yuan/people.html)|
 |Stanford|SNAP|[Homepage](https://snap.stanford.edu/papers.html)|
 |Houston Methodist|Wang Lab|[Homepage](https://guangyuwanglab.github.io/web/)|
 |Mbzuai|Jianing Qiu|[Homepage](https://mbzuai.ac.ae/study/faculty/jianing-qiu/)|
+|DKFZ|German Cancer Research Center|[Homepage](https://www.dkfz.de/en/research)|
 
 
 ## 📖 Awesome Methods, Model, and Resource List
