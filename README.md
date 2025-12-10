@@ -163,25 +163,43 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Google|Google Health|[Homepage](https://health.google/pubs/)|
 |Open AI|Health AI Team|[Homepage](https://openai.com/science/)|
 |Ant Group|AI for Science Team|[Homepage](https://www.antgroup.com/en)|
-|Alibaba|Tongyi Lab|[Homepage](https://github.com/Alibaba-NLP)|
+|Alibaba|Tongyi Lab, Damo|[Homepage](https://github.com/Alibaba-NLP), [Homepage](https://github.com/alibaba-damo-academy)|
 |Shanghai AI Lab|AI for Science Team|[Homepage](https://ai4.science/)|
 |Baichuan AI|AI Lab|[Homepage](https://github.com/baichuan-inc)|
-|Tecent|Jarvislab|[Homepage](https://jarvislab.tencent.com/)|
+|Tecent|Jarvislab, Xiaobin Hu|[Homepage](https://jarvislab.tencent.com/), [Homepage](https://huuxiaobin.github.io/)|
 |Huawei|NoAH|[Homepage](http://dev3.noahlab.com.hk/research.html)|
 |ByteDance|Seed,AI for Science Team|[Homepage](https://seed.bytedance.com/zh/direction/ai_for_science)|
 |Microsoft Research|Hoifung Poon|[Homepage](https://scholar.google.com/citations?user=yqqmVbkAAAAJ&hl=en)|
-|TJU|ADM Group|[Homepage](https://www.adm-cube.online/)|
-|UIUC|Jimeng Sun|[Homepage](https://www.sunlab.org/)|
+|Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/)|
+|MIT|Paul Liang|[Homepage](https://pliang279.github.io/)|
+|Oxford|Tingting Zhu|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu)|
+|Tsinghua University|Yang Liu|[Homepage](https://nlp.csai.tsinghua.edu.cn/~ly/)|
+|UNC|Tianlong Chen, Huaxiu Yao|[Homepage](https://genai4health.github.io/), Homepage(https://www.huaxiuyao.io/)|
+|UBC|Xiaoxiao Li|[Homepage](https://tea.ece.ubc.ca/)|
+|UIUC|Jimeng Sun,Jiawei Han|[Homepage](https://www.sunlab.org/)|
+|ZJU|DCDmllm|[Homepage](https://github.com/DCDmllm)|
+|Notre Dame|SCLab|[Homepage](https://scl-nd.github.io/)|
 |Pennsylvania|Tianyu Han, Fenglong Ma|[Homepage](https://www.tianyuhan.ai/), [Homepage](https://fenglong-ma.github.io/)|
 |Emory|Carl Yang|[Homepage](https://www.cs.emory.edu/~jyang71/)|
-|PKU|Liantao Ma|[Homepage](http://scholar.pku.edu.cn/malt/home)|
+|Stanford|SNAP, James Zou|[Homepage](https://snap.stanford.edu/papers.html), [Homepage](https://zou-group.github.io/index.html)|
+|PKU|Liantao Ma, Yasha Wang|[Homepage](http://scholar.pku.edu.cn/malt/home)|
+|TJU|ADM Group|[Homepage](https://www.adm-cube.online/)|
 |Edinburgh|Ewen M Harrison|[Homepage](https://surgery.ed.ac.uk/research/cachexiagroup)|
 |Virginia|Aidong Zhang|[Homepage](https://engineering.virginia.edu/faculty/aidong-zhang)|
-|CUHK|Freedom AI, YuanWu|[Homepage](https://github.com/FreedomIntelligence), [Homepage](https://www.bme.cuhk.edu.hk/yuan/people.html)|
-|Stanford|SNAP|[Homepage](https://snap.stanford.edu/papers.html)|
+|CUHK|Freedom AI, YuanWu, Michael R. Lyu|[Homepage](https://github.com/FreedomIntelligence), [Homepage](https://www.bme.cuhk.edu.hk/yuan/people.html), [Homepage](http://www.cse.cuhk.edu.hk/lyu/)|
+|CityU|Xiangyu Zhao|[Homepage](https://zhaoxyai.github.io/)|
 |Houston Methodist|Wang Lab|[Homepage](https://guangyuwanglab.github.io/web/)|
 |Mbzuai|Jianing Qiu|[Homepage](https://mbzuai.ac.ae/study/faculty/jianing-qiu/)|
 |DKFZ|German Cancer Research Center|[Homepage](https://www.dkfz.de/en/research)|
+|California|Yuyin Zhou|[Homepage](https://yuyinzhou.github.io/)|
+|ETH|Michael Moor|[Homepage](https://michaelmoor.me/)|
+|JOHNS HOPKINS|Suchi Saria|[Homepage](https://www.cs.jhu.edu/faculty/suchi-saria/)|
+|Cornell|Fei Wang|[Homepage](https://wcm-wanglab.github.io/index.html)|
+
+
+
+
+
 
 
 ## 📖 Awesome Methods, Model, and Resource List
