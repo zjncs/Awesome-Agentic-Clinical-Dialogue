@@ -174,7 +174,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |MIT|Paul Liang|[Homepage](https://pliang279.github.io/)|
 |Oxford|Tingting Zhu|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu)|
 |Tsinghua University|Yang Liu|[Homepage](https://nlp.csai.tsinghua.edu.cn/~ly/)|
-|UNC|Tianlong Chen, Huaxiu Yao|[Homepage](https://genai4health.github.io/), Homepage(https://www.huaxiuyao.io/)|
+|UNC|Tianlong Chen, Huaxiu Yao|[Homepage](https://genai4health.github.io/), [Homepage](https://www.huaxiuyao.io/)|
 |UBC|Xiaoxiao Li|[Homepage](https://tea.ece.ubc.ca/)|
 |UIUC|Jimeng Sun,Jiawei Han|[Homepage](https://www.sunlab.org/)|
 |ZJU|DCDmllm|[Homepage](https://github.com/DCDmllm)|
