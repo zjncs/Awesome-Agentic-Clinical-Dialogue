@@ -75,9 +75,9 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - 🤖**Grounded Synthesizers (GS)**. These agents operate under the principle that LLMs should function as powerful natural language interfaces to reliable external information rather than as knowledge creators. Their primary role is to retrieve, integrate, and accurately summarize information from verifiable sources like medical databases or imaging data. Exemplars include the foundational frameworks medical retrieval and indexing techniques such as Med-RAG and MA-COIR.
 - 🤖**Verifiable Workflow Automators (VWA)**. In this paradigm, agent autonomy is strictly constrained within pre-defined, verifiable clinical workflows or decision trees. The LLM acts as a natural language front-end to a structured process, executing tasks rather than making open-ended decisions, which ensures maximum safety and predictability. This approach is exemplified by commercial triage bots, the structured conversational framework of systems like Google's AMIE, and principles from classic task-oriented dialogue systems sush as MeDi-TODER.
 
-## ✳️**Start with Awesome Dataset**
+## ✳️**Start with Awesome Dataset** [Back to Content](#-table-of-contents)
 
-### **I. QA Dialogue**
+### **I. QA Dialogue** [Back to Content](#-table-of-contents)
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedicationQA** | 2019 | Consumer Health QA | Dataset of consumer questions about medications (drug interactions, dosage) with expert answers. | [paper](https://arxiv.org/abs/1908.10023), [source](https://github.com/abachaa/Medication_QA_MedInfo2019) |
 | **RJUA-MedDQA** | 2024 | QA / Multimodal | Multimodal benchmark for medical document understanding (images/reports) and clinical reasoning. | [paper](https://arxiv.org/abs/2402.14840), [source](https://github.com/Alipay-Med/medDQA_benchmark) |
 
-### **II. Task-oriented Dialogue**
+### **II. Task-oriented Dialogue** [Back to Content](#-table-of-contents)
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedSynth** | 2025 | Generation / Summarization | Synthetic medical dialogue-note pairs designed to advance dialogue-to-note and note-to-dialogue tasks. | [paper](https://arxiv.org/abs/2508.01401), [source](https://github.com/ahmadrezarm/MedSynth) |
 | **MeQSum** | 2019 | Summarization / Instruction | Dataset for summarizing consumer health questions into canonical medical questions. | [paper](https://www.aclweb.org/anthology/P19-1215/), [source](https://github.com/abachaa/MeQSum) |
 
-### **III. Recommendation Dialogue**
+### **III. Recommendation Dialogue** [Back to Content](#-table-of-contents)
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -134,7 +134,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **DrugBank** | - | Knowledge Base (Source) | Comprehensive database containing information on drugs and drug targets, used for grounding recommendations. | [paper](https://go.drugbank.com/), [source](https://go.drugbank.com/releases) |
 | **ProKnow-data** | 2020 | Recommendation | Data used for proactive knowledge-grounded dialogue, often adapted for medical contexts. | [paper](https://arxiv.org/abs/2010.13328), [source](https://github.com/zhw12/ProKnow) |
 
-### **IV. Supportive Dialogue**
+### **IV. Supportive Dialogue** [Back to Content](#-table-of-contents)
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -146,7 +146,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MTS-Dialogue** | 2023 | Clinical Support/Summ. | 1.7k doctor-patient conversations paired with corresponding clinical note summaries. | [paper](https://aclanthology.org/2023.eacl-main.168/), [source](https://github.com/abachaa/MTS-Dialog) |
 | **SMILECHAT** | 2023 | Mental Health Support | Dataset for mental health support focusing on cognitive distortion detection and reframing. | [paper](https://arxiv.org/abs/2311.00445), [source](https://github.com/qiuhuachuan/smile) |
 
-### **V. Hybrid Function**
+### **V. Hybrid Function** [Back to Content](#-table-of-contents)
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -157,7 +157,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedAlpaca** | 2023 | Instruction Tuning | Collection of datasets (see Medical Meadow) used to train the MedAlpaca model series. | [paper](https://arxiv.org/abs/2304.08247), [source](https://github.com/kbressem/medAlpaca) |
 | **NoteChat** | 2023 | Generation / Hybrid | Synthetic patient-physician conversations conditioned on clinical notes (Note-to-Dialogue). | [paper](https://arxiv.org/abs/2310.15959), [source](https://github.com/believewhat/Dr.NoteAid) |
 
-## ⛪ Leading Group
+## ⛪ Leading Group [Back to Content](#-table-of-contents)
 | Institution | Leading Researcher/Group | Source |
 | :--- | :--- | :--- | 
 |Google|Google Health|[Homepage](https://health.google/pubs/)|
@@ -182,9 +182,9 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Mbzuai|Jianing Qiu|[Homepage](https://mbzuai.ac.ae/study/faculty/jianing-qiu/)|
 
 
-## 📖 Awesome Methods, Model, and Resource List
-### 🤖**LSC**
-#### 📊Planning
+## 📖 Awesome Methods, Model, and Resource List [Back to Content](#-table-of-contents)
+### 🤖**LSC** [Back to Content](#-table-of-contents)
+#### 📊Planning [Back to Content](#-table-of-contents)
 - **BioGPT: generative pre-trained transformer for biomedical text generation and mining** (_Briefings Bioinf._, 2023) [paper](https://arxiv.org/abs/2210.10341), [code](https://github.com/microsoft/BioGPT)
   > A domain-specific generative Transformer pre-trained on large-scale biomedical literature to achieve state-of-the-art performance in text generation and mining tasks.
 
@@ -243,7 +243,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
   > A bilingual (English/Chinese) LLM specifically fine-tuned to handle a diverse range of biomedical tasks, including NER, RE, and QA.
 
 
-#### 🧠Memory
+#### 🧠Memory [Back to Content](#-table-of-contents)
 
 - **Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.18503)
   > Proposes an Automatic Attention Alignment (AAA) mechanism to align the visual attention of VLMs with clinical masks, enhancing interpretability and performance.
@@ -294,7 +294,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
   > Develops a conversational agent that engages patients in journaling to track and analyze Parkinson's disease symptoms over time.
 
 
-#### 👥Cooperation
+#### 👥Cooperation [Back to Content](#-table-of-contents)
 
 - **MEDCO: Medical Education Copilots Based on A Multi-Agent Framework** (_ECCV Workshops_, 2024) [paper](https://arxiv.org/abs/2408.12496)
   > Introduces a multi-agent educational copilot system comprising student, patient, and expert agents to simulate realistic clinical training scenarios.
@@ -317,7 +317,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** (_arXiv_, 2023) [paper](https://arxiv.org/abs/2311.10537), [code](https://github.com/GersteinLab/MedAgents)
   > Leveraging a multi-agent debate mechanism to enhance zero-shot clinical reasoning capabilities by simulating medical consultations.
 
-#### ⏫Self-evolution
+#### ⏫Self-evolution [Back to Content](#-table-of-contents)
 
 - **AlphaEvolve: A coding agent for scientific and algorithmic discovery** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.13131)
   > An evolutionary coding agent from DeepMind capable of autonomously discovering novel algorithms and optimizing code for scientific problems.
@@ -333,9 +333,9 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 - **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.22954)
   > Proposes a framework for open-ended agent evolution where the system can rewrite its own code to continuously improve its learning and reasoning mechanisms.
-
-### 🤖**EP**
-#### 📊Planning
+ 
+### 🤖**EP** [Back to Content](#-table-of-contents)
+#### 📊Planning [Back to Content](#-table-of-contents)
 
 - **Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.751/)
   > Introduces the MedVP dataset, focusing on verifiable medical problems to benchmark and enhance the complex reasoning capabilities of LLMs.
@@ -386,7 +386,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
   > Models the interaction between recommender agents and user simulator agents as a feedback loop to improve long-term recommendation utility.
 
 
-#### 🧠Memory
+#### 🧠Memory [Back to Content](#-table-of-contents)
 
 - **MOTOR: A Time-To-Event Foundation Model For Structured Medical Records** (_MLHC_, 2023) [paper](https://arxiv.org/abs/2301.03150), [code](https://github.com/tanlab/MOTOR)
   > A foundation model pre-trained on longitudinal structured medical records to perform time-to-event prediction tasks with high accuracy.
@@ -430,7 +430,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **LIFE-CRAFT: A Multi-agentic Conversational RAG Framework for Lifestyle Medicine Coaching with Context Traceability and Case-Based Evidence Synthesis** (_HCII_, 2024) [paper](https://dl.acm.org/doi/abs/10.1007/978-3-032-06004-4_9)
   > A multi-agent RAG system designed for lifestyle medicine coaching that ensures advice is traceable to case-based evidence.
 
-#### 👥Cooperation
+#### 👥Cooperation [Back to Content](#-table-of-contents)
 
 - **MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2509.23725)
   > Proposes a logic-driven multi-agent framework where agents organize reasoning into explicit syllogistic trees to ensure transparent and verifiable medical decision-making.
@@ -456,7 +456,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2405.11640)
   > A proactive framework that enables agents to autonomously inquire about missing modalities and integrate multimodal evidence for zero-shot medical reasoning.
 
-#### ⏫Self-evolution
+#### ⏫Self-evolution [Back to Content](#-table-of-contents)
 
 - **Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions (MedAgentSim)** (_MICCAI_, 2025) [paper](https://arxiv.org/abs/2503.22678), [code](https://github.com/MAXNORM8650/MedAgentSim)
   > Introduces a simulation environment where doctor and patient agents interact and self-evolve through experience replay and feedback, significantly improving diagnostic realism.
@@ -476,8 +476,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.21503)
   > Introduces a "Catfish Agent" designed to inject structured dissent into multi-agent discussions, preventing premature consensus (groupthink) in medical diagnosis.
 
-### 🤖**GS**
-#### 📊Planning
+### 🤖**GS** [Back to Content](#-table-of-contents)
+#### 📊Planning [Back to Content](#-table-of-contents)
 
 - **HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses** (_ACL Findings_, 2024) [paper](https://arxiv.org/abs/2312.15883), [code](https://github.com/Global-NLP-Lab/HyKGE)
   > Constructs a hypothesis-driven knowledge graph to verify intermediate reasoning steps, ensuring LLM responses are grounded in medical facts.
@@ -518,7 +518,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.24830)
   > Decomposes model responses into atomic facts and verifies them against retrieved evidence to enhance reliability and explainability.
 
-#### 🧠Memory
+#### 🧠Memory [Back to Content](#-table-of-contents)
 
 - **Bias Evaluation and Mitigation in Retrieval-Augmented Medical Question-Answering Systems** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.15454)
   > Systematically evaluates sources of bias in medical RAG systems and proposes mitigation strategies to ensure equitable healthcare advice.
@@ -556,7 +556,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Leveraging long context in retrieval augmented language models for medical question answering** (_npj Digit. Med._, 2025) [paper](https://www.nature.com/articles/s41746-025-01651-w)
   > Investigates the trade-offs and synergies between using long-context windows and RAG for accessing vast medical knowledge.
 
-#### 🧰Action
+#### 🧰Action [Back to Content](#-table-of-contents)
 
 - **KoSEL: Knowledge subgraph enhanced large language model for medical question answering** (_Artif. Intell. Med._, 2024) [paper](https://www.sciencedirect.com/science/article/pii/S0950705124014710)
   > Retrieves relevant subgraphs from a medical knowledge graph to provide structured context, enhancing the LLM's reasoning for medical QA.
@@ -621,7 +621,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **ADEPT: An advanced data exploration and processing tool for clinical data insights** (_Database_, 2025) [paper](https://pubmed.ncbi.nlm.nih.gov/40403533/)
   > A comprehensive software tool designed for the exploration, cleaning, and preprocessing of large-scale clinical datasets for research.
 
-#### 👥Cooperation
+#### 👥Cooperation [Back to Content](#-table-of-contents)
 
 - **Error Detection in Medical Note through Multi Agent Debate** (_BioNLP_, 2025) [paper](https://aclanthology.org/2025.bionlp-1.12/)
   > Utilizes a multi-agent debate framework where agents critically analyze medical notes to identify and reach consensus on documentation errors.
@@ -641,7 +641,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.13856)
   > Simulates a Multi-Disciplinary Team (MDT) consultation where agents evolve their collaborative strategies over time to solve complex cancer cases.
 
-#### ⏫Self-evolution
+#### ⏫Self-evolution [Back to Content](#-table-of-contents)
 
 - **Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2502.13010)
   > (Previously listed as *Agentic Medical Knowledge Graphs...*) A framework that autonomously updates its knowledge graph using agentic search to reflect the latest medical research.
@@ -664,8 +664,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.20666)
   > A multi-agent framework that assists researchers in performing thematic analysis of clinical interviews, learning from human feedback to improve coding quality.
 
-### 🤖**VWA**
-#### 📊Planning
+### 🤖**VWA** [Back to Content](#-table-of-contents)
+#### 📊Planning [Back to Content](#-table-of-contents)
 
 - **VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation** (_AAAI_, 2024) [paper](https://arxiv.org/abs/2312.12100), [code](https://github.com/Ying-Jie-Tan/VITA)
   > Proposes a medication recommendation framework that prioritizes selecting the most critical drugs over comprehensive but redundant lists, improving safety.
@@ -724,7 +724,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2407.05131)
   > Enhances the factuality of medical VLMs by retrieving and grounding responses in reliable multimodal evidence during generation.
 
-#### 🧠Memory
+#### 🧠Memory [Back to Content](#-table-of-contents)
 
 - **M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering** (_ACL Findings_, 2024) [paper](https://aclanthology.org/2024.findings-acl.238/)
   > Establishes a benchmark specifically designed to evaluate the clinical reading comprehension and long-term knowledge recall capabilities of LLMs.
@@ -756,7 +756,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.15746)
   > (Also listed in Planning) Trains an agentic system where the retrieval (memory) and reasoning components are optimized end-to-end for traceability.
 
-#### 🧰Action
+#### 🧰Action [Back to Content](#-table-of-contents)
 
 - **CardioTRAP: Design of a Retrieval Augmented System (RAG) for Clinical Data in Cardiology** (_IEEE Access_, 2025) [paper](https://ieeexplore.ieee.org/document/11081642)
   > Designs a specialized RAG system tailored for cardiology that retrieves and processes patient-specific clinical data to support cardiologist decision-making.
@@ -800,7 +800,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Designing VR Simulation System for Clinical Communication Training with LLMs-Based Embodied Conversational Agents** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.01767)
   > Integrates LLM-based embodied agents into a Virtual Reality simulation to train medical students in clinical communication actions.
 
-#### 👥Cooperation
+#### 👥Cooperation [Back to Content](#-table-of-contents)
 
 - **Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2411.14637)
   > Introduces MAKA, a multi-agent framework that improves patient-trial matching by dynamically augmenting criteria with domain knowledge and performing structured reasoning.
@@ -814,7 +814,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **The Optimization Paradox in Clinical AI Multi-Agent Systems** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.06574)
   > Reveals a paradox where systems built from individually optimized "best-of-breed" components underperform due to poor information flow, advocating for end-to-end system validation.
 
-#### ⏫Self-evolution
+#### ⏫Self-evolution [Back to Content](#-table-of-contents)
 
 
 - **EvoAgentX: An Automated Framework for Evolving Agentic Workflows** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2507.03616), [code](https://github.com/EvoAgentX/EvoAgentX)
@@ -835,13 +835,13 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries** (_CogSci_, 2025) [paper](https://arxiv.org/abs/2508.17366)
   > Investigates the emergence of collective cognition and social boundaries in hybrid societies where humans and self-evolving agents interact.
 
-## Star History
+## Star History [Back to Content](#-table-of-contents)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)](https://www.star-history.com/#xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)
 
-## 🤝 Contributing
+## 🤝 Contributing [Back to Content](#-table-of-contents)
 Your contributions are always welcome! Please contact [Xiaoquan Zhi](https://github.com/xqz614) or [Chuang Zhao](https://github.com/Data-Designer)
-## ✍️ Citation
+## ✍️ Citation [Back to Content](#-table-of-contents)
 If you find this code useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{ADM2025reinv,
