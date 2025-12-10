@@ -171,7 +171,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Huawei|NoAH|[Homepage](http://dev3.noahlab.com.hk/research.html)|
 |ByteDance|Seed,AI for Science Team|[Homepage](https://seed.bytedance.com/zh/direction/ai_for_science)|
 |Microsoft Research|Hoifung Poon|[Homepage](https://scholar.google.com/citations?user=yqqmVbkAAAAJ&hl=en)|
-|Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar, Tianxi Cai|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/), [Homepage](Tianxi Cai)|
+|Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar, Tianxi Cai|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/), [Homepage](https://dbmi.hms.harvard.edu/people/tianxi-cai)|
 |Maryland|Hanan Samet|[Homepage](https://www.cs.umd.edu/~hjs/)|
 |MIT|Paul Liang, Peter Szolovits|[Homepage](https://pliang279.github.io/), [Homepage](https://people.csail.mit.edu/psz/web/publications.html)|
 |Oxford|Tingting Zhu|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu)|
