@@ -20,7 +20,7 @@
 
   <p align="center">
     <br />
-    This repo includes papers about methods related to agentic clinical dialogue. We believe that the agentic paradigm is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!
+    Awesome-Agentic-Clinical-Dialogue (this repo) includes papers about methods related to agentic clinical dialogue. We believe that the agentic paradigm is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!
     <br />
     Read our survey paper here: <a href="https://arxiv.org/abs/2512.01453">Reinventing Clinical Dialogue: Agentic Paradigms for LLM‑Enabled Healthcare Communication</a> 
     <br />
@@ -890,7 +890,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - **Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries** (_CogSci_, 2025) [paper](https://arxiv.org/abs/2508.17366)
   > Investigates the emergence of collective cognition and social boundaries in hybrid societies where humans and self-evolving agents interact.
 
-## Star History
+## Star History of Awesome-Agentic-Clinical-Dialogue
 [Back to Content](#-table-of-contents)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)](https://www.star-history.com/#xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)
