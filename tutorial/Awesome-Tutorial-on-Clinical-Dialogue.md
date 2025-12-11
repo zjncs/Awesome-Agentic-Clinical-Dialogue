@@ -55,4 +55,4 @@ We are standing at the threshold of a medical renaissance where code meets care.
 
 ### Part 4 Our Tutorial
 
-> Updating...
+> We’ve put together a simple guide to help get you started with medical dialogue data, SFT, and GRPO using TRL. Please check /our_simple_tutorial/README.md for the specifics. We hope to grow this project alongside the community and will be updating it regularly.
