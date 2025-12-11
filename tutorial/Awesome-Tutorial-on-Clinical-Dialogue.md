@@ -33,6 +33,9 @@ We are standing at the threshold of a medical renaissance where code meets care.
 | **HELM Medical Evaluation** (Stanford CRFM)                  | Applied Frontier | ⭐⭐⭐⭐       | [Website](https://crfm.stanford.edu/helm/latest/)            |
 | **Spark NLP for Healthcare** (John Snow Labs)                | Applied Frontier | ⭐⭐⭐⭐       | [Website](https://github.com/JohnSnowLabs/spark-nlp-workshop) |
 | **Supervised Fine-Tuning (SFT) for VLMs on Medical Image Data** (Yongcheng Yao) | Advanced Tech    | ⭐⭐⭐        | [Website](https://huggingface.co/blog/YongchengYAO/medvision-sft-guide) |
+| **The Second Workshop on GenAI for Health Potential, Trust, and Policy Compliance** (NeurlPS) | Advanced Tech    | ⭐⭐⭐⭐⭐     | [Website](https://genai4health.github.io/) |
+| **AI+HEALTH 2025** (Stanford University) | Advanced Tech    | ⭐⭐⭐⭐    | [Website](https://aimi.stanford.edu/aihealth25) |
+| **Workshop on LLM and Generative AI for Health 2025** (AAAI) | Advanced Tech    | ⭐⭐⭐⭐⭐ | [Website](https://openreview.net/group?id=AAAI.org/2025/Workshop/GenAI4Health#tab-accept-oral) |
 
 ### Part 3: Talks & Keynotes
 
