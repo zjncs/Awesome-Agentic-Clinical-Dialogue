@@ -226,6 +226,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |UC Berkeley|Bin Yu|[Homepage](https://binyu.stat.berkeley.edu/#recent-publications-talks-news)|
 |UW|Hannaneh Hajishirzi|[Homepage](https://hannaneh.ai/)|
 |LMU Munich|Volker Tresp|[Homepage](https://www.dbs.ifi.lmu.de/~tresp/)|
+|SBU|Chenyu You|[Homepage](https://chenyuyou.me/)|
 |FuDan|Zhongyu Wei|[Homepage](http://www.fudan-disc.com/people/zywei)|
 |Minnesota|Rui Zhang|[Homepage](https://ruizhang.umn.edu/)|
 |Monash|AIM Lab|[Homepage](https://www.monash.edu/it/aimh-lab)|
